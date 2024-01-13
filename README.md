@@ -30,6 +30,5 @@ The course is structured into modules, each covering specific aspects of React d
 - **Module 5**: State Management with Redux
 - **Module 6**: Advanced React Patterns
 
-# Happy Learning! 🎓
-
+Happy Learning! 🎓
 For more information, visit [Joy of React Course](https://www.joyofreact.com/course).
